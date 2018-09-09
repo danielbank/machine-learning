@@ -4,8 +4,14 @@ Content for Udacity's Machine Learning curriculum, which includes projects and t
 
 ## TO DO ITEMS
 
-- Finish Bayesian Spam Classifier Lab (`/labs/bayesian-spam-classifier`)
-- Finish PCA Minilab (`./labs/pca`)
+-   PCA Lab
+-   Bayesian Spam Classifier Lab (Supervised Learning)
+-   Incorporate Customer Segment Review 2 Sample Code into the Project
+-   Incorporate Finding Donors Review 1 and 2 Sample Code into the Project
+-   Incorporate Boston Housing Review 1 and 2 Sample Code into the Project
+-   aind2-cnn
+-   Mini project: Training an MLP on MNIST
+-   Dermatologist AI Project (Deep Learning)
 
 ## If stuffs not working
 
