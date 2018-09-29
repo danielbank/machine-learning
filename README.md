@@ -12,6 +12,7 @@ Content for Udacity's Machine Learning curriculum, which includes projects and t
 -   aind2-cnn
 -   Mini project: Training an MLP on MNIST
 -   Dermatologist AI Project (Deep Learning)
+-   Dynamic Programming Lab
 
 ## If stuffs not working
 
